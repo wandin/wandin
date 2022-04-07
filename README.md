@@ -36,18 +36,21 @@
 
 ## 🤝🏽 &nbsp;Social Links
 <p>
-<a href="https://www.linkedin.com/in/wanderson-lopes/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn Profile-9cf?style=for-the-badge&logo=linkedin" alt="linkedin"/>  </a>
+<a href="https://www.linkedin.com/in/wanderson-lopes/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-2E75B4?style=plastic&logo=linkedin" alt="linkedin"/>  </a>
+
+<a href="https://twitter.com/wdnfps" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-2E75B4?style=plastic&logo=twitter" alt="Twitter"/>  </a>
 
 <a href="https://steamcommunity.com/id/wandinfps/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Steam-05122A?style=for-the-badge&logo=steam" alt="linkedin"/>
-</a>
-</p>
+  <img align="center" src="https://img.shields.io/badge/-Steam-05122A?style=plastic&logo=steam" alt="Steam"/></p></a>
 
-</a>
+
+
+<p>
 <a href="https://donate.redcrossredcrescent.org/ua/donate/~my-donation?_cv=1" target="_blank">
-  <img align="center" src="https://blog.bolt.eu/wp-content/uploads/2022/03/BoltStandsWithUkraine.png" alt="Donate To Ukraine" title="Donate to Ukraine" width="300" height="200"/>
-</a>
-</p>
+  <img align="center" src="https://blog.bolt.eu/wp-content/uploads/2022/03/BoltStandsWithUkraine.png" alt="Donate To Ukraine" title="Donate to Ukraine" width="300" height="200"/> </p>
+ </a>
+
 
 <a>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandin&color=green" alt="Profile views" /> </p></a>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=wandin&color=green" alt="Profile views" /> </p>
+</a>
