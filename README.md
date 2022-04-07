@@ -38,7 +38,7 @@
 <p>
 <a href="https://www.linkedin.com/in/wanderson-lopes/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-2E75B4?style=plastic&logo=linkedin" alt="linkedin"/>  </a>
 
-<a href="https://twitter.com/wdnfps" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-2E75B4?style=plastic&logo=twitter" alt="Twitter"/>  </a>
+<a href="https://twitter.com/wdnfps" target="_blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=twitter" alt="Twitter"/>  </a>
 
 <a href="https://steamcommunity.com/id/wandinfps/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Steam-05122A?style=plastic&logo=steam" alt="Steam"/></p></a>
